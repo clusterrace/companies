@@ -1,6 +1,22 @@
-# Paperclip Companies
+# 🏢 Paperclip Companies
 
-Pre-built agent companies and shared skills for [Paperclip](https://github.com/paperclipai/paperclip). Each company directory contains a complete company configuration ready to deploy, and the top-level `skills/` directory holds reusable skills that can be shared across companies.
+> **Deploy an entire AI workforce in minutes** — 16 pre-built companies, 440+ specialized agents, and 500+ battle-tested skills. From security auditors to game studios, from scientific research labs to full-stack dev shops. Plug in, power up, ship.
+
+[![GitHub stars](https://img.shields.io/github/stars/paperclipai/companies?style=social)](https://github.com/paperclipai/companies)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![Paperclip](https://img.shields.io/badge/Powered_by-Paperclip-blue)](https://github.com/paperclipai/paperclip)
+
+---
+
+## 🚀 What Is This?
+
+A growing catalog of ready-to-deploy agent companies for the [Paperclip](https://github.com/paperclipai/paperclip) platform. Each company is a fully configured team of AI agents — org chart, skills, governance — that you can import and run immediately.
+
+- **🎯 Domain-Specific**: Security firms, game studios, science labs, consultancies — not generic prompt wrappers
+- **🧬 Complete Org Structures**: CEO → directors → specialists, with real reporting lines and delegation
+- **🛠️ Skill-Loaded**: Hundreds of reusable workflow skills agents actually know how to run
+- **⚡ Import & Go**: `paperclipai company import --from ./trail-of-bits-security` and you're live
 
 | Company | Agents | Skills | Source |
 |---------|--------|--------|--------|
