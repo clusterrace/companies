@@ -19,13 +19,13 @@
 
 | Agent | Role | Reports To |
 |-------|------|------------|
-| Buffett Analyst | Engineer | portfolio-manager |
-| Fundamentals Analyst | Engineer | portfolio-manager |
-| Growth Analyst | Engineer | portfolio-manager |
-| Portfolio Manager | Manager | — |
-| Risk Manager | Manager | portfolio-manager |
-| Sentiment Analyst | Engineer | portfolio-manager |
-| Technical Analyst | Engineer | portfolio-manager |
+| Buffett Analyst | Engineer | ceo |
+| CEO | Manager | — |
+| Fundamentals Analyst | Engineer | ceo |
+| Growth Analyst | Engineer | ceo |
+| Risk Manager | Manager | ceo |
+| Sentiment Analyst | Engineer | ceo |
+| Technical Analyst | Engineer | ceo |
 
 ### Skills
 

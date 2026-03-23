@@ -1,7 +1,7 @@
 ---
 name: Director of Data Analytics
 title: Director of Data Analytics
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

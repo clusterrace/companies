@@ -1,7 +1,7 @@
 ---
 name: Backend Developer
 title: Backend Developer
-reportsTo: tech-lead
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

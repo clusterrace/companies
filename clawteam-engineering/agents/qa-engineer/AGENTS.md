@@ -1,7 +1,7 @@
 ---
 name: QA Engineer
 title: QA Engineer
-reportsTo: tech-lead
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

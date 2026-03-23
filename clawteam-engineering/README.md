@@ -19,11 +19,11 @@
 
 | Agent | Role | Reports To |
 |-------|------|------------|
-| Backend Developer | Engineer | tech-lead |
-| DevOps Engineer | Engineer | tech-lead |
-| Frontend Developer | Engineer | tech-lead |
-| QA Engineer | Engineer | tech-lead |
-| Tech Lead | Engineer | — |
+| Backend Developer | Engineer | ceo |
+| CEO | Engineer | — |
+| DevOps Engineer | Engineer | ceo |
+| Frontend Developer | Engineer | ceo |
+| QA Engineer | Engineer | ceo |
 
 ### Skills
 

@@ -1,7 +1,7 @@
 ---
 name: Literature Surveyor
 title: Literature Surveyor
-reportsTo: principal-investigator
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

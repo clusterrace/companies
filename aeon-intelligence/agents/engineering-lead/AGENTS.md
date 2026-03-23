@@ -1,7 +1,7 @@
 ---
 name: Engineering Lead
 title: Dev & Code Lead
-reportsTo: cio
+reportsTo: ceo
 skills:
   - pr-review
   - github-monitor

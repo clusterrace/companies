@@ -1,7 +1,7 @@
 ---
 name: Crypto Analyst
 title: On-Chain Intelligence
-reportsTo: cio
+reportsTo: ceo
 skills:
   - token-alert
   - wallet-digest

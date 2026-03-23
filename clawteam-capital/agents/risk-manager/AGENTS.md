@@ -1,7 +1,7 @@
 ---
 name: Risk Manager
 title: Risk Manager
-reportsTo: portfolio-manager
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

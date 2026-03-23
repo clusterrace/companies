@@ -1,7 +1,7 @@
 ---
 name: Data Analyst
 title: Data Analyst
-reportsTo: principal-investigator
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

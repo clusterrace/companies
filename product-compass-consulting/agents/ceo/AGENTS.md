@@ -1,6 +1,6 @@
 ---
-name: CPO
-title: Chief Product Officer
+name: CEO
+title: Chief Product Officer & CEO
 reportsTo: null
 skills:
   - paperclip

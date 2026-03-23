@@ -1,6 +1,6 @@
 ---
-name: Principal Investigator
-title: Principal Investigator
+name: CEO
+title: Principal Investigator & CEO
 reportsTo: null
 skills:
   - clawteam

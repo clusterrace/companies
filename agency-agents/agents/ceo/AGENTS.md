@@ -1,7 +1,6 @@
 ---
-name: "Managing Director"
+name: CEO
 title: "Managing Director & CEO"
-slug: managing-director
 reportsTo: null
 ---
 

@@ -1,6 +1,6 @@
 ---
-name: CIO
-title: Chief Intelligence Officer
+name: CEO
+title: Chief Intelligence Officer & CEO
 reportsTo: null
 skills:
   - morning-brief

@@ -1,7 +1,7 @@
 ---
 name: Technical Director
 title: Technical Director
-reportsTo: null
+reportsTo: ceo
 ---
 
 # Technical Director

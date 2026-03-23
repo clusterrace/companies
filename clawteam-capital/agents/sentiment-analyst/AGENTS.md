@@ -1,7 +1,7 @@
 ---
 name: Sentiment Analyst
 title: Sentiment Analyst
-reportsTo: portfolio-manager
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

@@ -1,5 +1,10 @@
 schema: paperclip/v1
 agents:
+  ceo:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
   creative-director:
     adapter:
       type: claude_local

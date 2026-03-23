@@ -29,11 +29,11 @@
 | Automation Governance Architect | Engineer | chief-of-staff |
 | Blender Add-on Engineer | Engineer | game-dev-director |
 | Blockchain Security Auditor | Engineer | chief-of-staff |
-| Chief of Staff | Engineer | managing-director |
-| Chief Marketing Officer | CMO | managing-director |
+| Chief of Staff | Engineer | ceo |
+| Chief Marketing Officer | CMO | ceo |
 | Compliance Auditor | Engineer | chief-of-staff |
 | Corporate Training Designer | Engineer | chief-of-staff |
-| Creative Director | Engineer | managing-director |
+| Creative Director | Engineer | ceo |
 | Data Consolidation Agent | Engineer | chief-of-staff |
 | Brand Guardian | Engineer | creative-director |
 | Image Prompt Engineer | Engineer | creative-director |
@@ -68,7 +68,7 @@
 | WeChat Mini Program Developer | Engineer | vp-engineering |
 | Game Audio Engineer | Engineer | game-dev-director |
 | Game Designer | Engineer | game-dev-director |
-| Game Development Director | Engineer | managing-director |
+| Game Development Director | Engineer | ceo |
 | Godot Gameplay Scripter | Engineer | game-dev-director |
 | Godot Multiplayer Engineer | Engineer | game-dev-director |
 | Godot Shader Developer | Engineer | game-dev-director |
@@ -78,7 +78,7 @@
 | Level Designer | Engineer | game-dev-director |
 | LSP/Index Engineer | Engineer | chief-of-staff |
 | macOS Spatial/Metal Engineer | Engineer | xr-director |
-| Managing Director | Engineer | — |
+| CEO | Engineer | — |
 | AI Citation Strategist | Engineer | cmo |
 | App Store Optimizer | Engineer | cmo |
 | Baidu SEO Specialist | Engineer | cmo |
@@ -176,10 +176,10 @@
 | Unreal Technical Artist | Engineer | game-dev-director |
 | Unreal World Builder | Engineer | game-dev-director |
 | visionOS Spatial Engineer | Engineer | xr-director |
-| VP of Engineering | VP | managing-director |
-| VP of Operations | VP | managing-director |
-| VP of Product | VP | managing-director |
-| VP of Sales | VP | managing-director |
+| VP of Engineering | VP | ceo |
+| VP of Operations | VP | ceo |
+| VP of Product | VP | ceo |
+| VP of Sales | VP | ceo |
 | XR Cockpit Interaction Specialist | Engineer | xr-director |
 | XR Director | Engineer | vp-engineering |
 | XR Immersive Developer | Engineer | xr-director |

@@ -17,7 +17,7 @@ Product Compass Consulting is a full-service AI product management consultancy. 
 
 ## How the company works
 
-The CPO receives client challenges and routes them to the right department. Work typically flows through the organization following the product lifecycle:
+The CEO receives client challenges and routes them to the right department. Work typically flows through the organization following the product lifecycle:
 
 1. **Discovery** — Brainstorm ideas, map assumptions, design experiments, conduct user research
 2. **Strategy** — Define vision, evaluate business models, analyze competition, set pricing
@@ -28,6 +28,6 @@ The CPO receives client challenges and routes them to the right department. Work
 7. **Marketing & Growth** — Generate campaigns, craft positioning, define North Star metrics
 8. **PM Toolkit** — Review resumes, draft legal docs, proofread content
 
-Not every engagement touches all departments. The CPO matches the client's need to the right team.
+Not every engagement touches all departments. The CEO matches the client's need to the right team.
 
 Generated from [pm-skills](https://github.com/phuryn/pm-skills) with the company-creator skill from [Paperclip](https://github.com/paperclipai/paperclip)

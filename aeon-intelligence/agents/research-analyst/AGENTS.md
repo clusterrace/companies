@@ -1,7 +1,7 @@
 ---
 name: Research Analyst
 title: Research & Content Lead
-reportsTo: cio
+reportsTo: ceo
 skills:
   - article
   - research-brief

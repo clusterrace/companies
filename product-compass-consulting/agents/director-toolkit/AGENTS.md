@@ -1,7 +1,7 @@
 ---
 name: Director of PM Toolkit
 title: Director of PM Toolkit
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

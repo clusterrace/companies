@@ -19,10 +19,10 @@
 
 | Agent | Role | Reports To |
 |-------|------|------------|
-| Data Analyst | Engineer | principal-investigator |
-| Literature Surveyor | Engineer | principal-investigator |
-| Methodology Designer | Engineer | principal-investigator |
-| Principal Investigator | Engineer | — |
+| CEO | Engineer | — |
+| Data Analyst | Engineer | ceo |
+| Literature Surveyor | Engineer | ceo |
+| Methodology Designer | Engineer | ceo |
 
 ### Skills
 

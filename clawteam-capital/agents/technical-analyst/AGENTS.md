@@ -1,7 +1,7 @@
 ---
 name: Technical Analyst
 title: Technical Analyst
-reportsTo: portfolio-manager
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

@@ -1,7 +1,7 @@
 ---
 name: Director of Go-to-Market
 title: Director of Go-to-Market
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

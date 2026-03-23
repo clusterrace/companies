@@ -1,7 +1,7 @@
 ---
 name: Creative Director
 title: Creative Director
-reportsTo: null
+reportsTo: ceo
 skills:
   - brainstorm
   - design-review

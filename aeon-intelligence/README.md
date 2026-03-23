@@ -19,10 +19,10 @@
 
 | Agent | Role | Reports To |
 |-------|------|------------|
-| CIO | Engineer | — |
-| Crypto Analyst | Engineer | cio |
-| Engineering Lead | Engineer | cio |
-| Research Analyst | Engineer | cio |
+| CEO | Engineer | — |
+| Crypto Analyst | Engineer | ceo |
+| Engineering Lead | Engineer | ceo |
+| Research Analyst | Engineer | ceo |
 
 ### Skills
 

@@ -1,7 +1,7 @@
 ---
 name: Methodology Designer
 title: Methodology Designer
-reportsTo: principal-investigator
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

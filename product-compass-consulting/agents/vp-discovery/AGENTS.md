@@ -1,7 +1,7 @@
 ---
 name: VP of Product Discovery
 title: Vice President of Product Discovery
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

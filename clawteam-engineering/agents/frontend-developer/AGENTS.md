@@ -1,7 +1,7 @@
 ---
 name: Frontend Developer
 title: Frontend Developer
-reportsTo: tech-lead
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

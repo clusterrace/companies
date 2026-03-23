@@ -1,6 +1,6 @@
 ---
-name: Portfolio Manager
-title: Portfolio Manager
+name: CEO
+title: Portfolio Manager & CEO
 reportsTo: null
 skills:
   - clawteam

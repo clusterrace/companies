@@ -1,6 +1,6 @@
 ---
-name: Tech Lead
-title: Tech Lead
+name: CEO
+title: Tech Lead & CEO
 reportsTo: null
 skills:
   - clawteam

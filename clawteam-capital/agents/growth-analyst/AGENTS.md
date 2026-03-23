@@ -1,7 +1,7 @@
 ---
 name: Growth Analyst
 title: Growth & Innovation Analyst
-reportsTo: portfolio-manager
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

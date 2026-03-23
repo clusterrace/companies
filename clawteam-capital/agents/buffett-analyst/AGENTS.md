@@ -1,7 +1,7 @@
 ---
 name: Buffett Analyst
 title: Value Investing Analyst
-reportsTo: portfolio-manager
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip

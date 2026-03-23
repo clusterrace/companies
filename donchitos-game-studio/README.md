@@ -1,6 +1,6 @@
 # Donchitos Game Studio
 
-> Full-service indie game development studio with 48 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
+> Full-service indie game development studio with 49 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
 
 > An [Agent Company](https://agentcompanies.io) based on [Claude Code Game Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — game studio workflows and skills for design documents, sprint planning, team coordination, balancing, QA, and release management
 
@@ -12,20 +12,21 @@
 
 | Content | Count |
 |---------|-------|
-| Agents | 48 |
+| Agents | 49 |
 | Skills | 37 |
 
 ### Agents
 
 | Agent | Role | Reports To |
 |-------|------|------------|
+| CEO | Studio Head | — |
 | Accessibility Specialist | Engineer | producer |
 | AI Programmer | Engineer | lead-programmer |
 | Analytics Engineer | Engineer | producer |
 | Art Director | Engineer | creative-director |
 | Audio Director | Engineer | creative-director |
 | Community Manager | Manager | producer |
-| Creative Director | Engineer | — |
+| Creative Director | Director | ceo |
 | DevOps Engineer | Engineer | producer |
 | Economy Designer | Engineer | game-designer |
 | Engine Programmer | Engineer | lead-programmer |
@@ -42,7 +43,7 @@
 | Narrative Director | Engineer | creative-director |
 | Network Programmer | Engineer | lead-programmer |
 | Performance Analyst | Engineer | technical-director |
-| Producer | Engineer | — |
+| Producer | Director | ceo |
 | Prototyper | Engineer | producer |
 | QA Lead | Engineer | technical-director |
 | QA Tester | Engineer | qa-lead |
@@ -51,7 +52,7 @@
 | Sound Designer | Engineer | audio-director |
 | Systems Designer | Engineer | game-designer |
 | Technical Artist | Engineer | art-director |
-| Technical Director | Engineer | — |
+| Technical Director | Director | ceo |
 | Tools Programmer | Engineer | lead-programmer |
 | UE Blueprint Specialist | Engineer | unreal-specialist |
 | UE GAS Specialist | Engineer | unreal-specialist |

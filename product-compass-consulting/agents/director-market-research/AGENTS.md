@@ -1,7 +1,7 @@
 ---
 name: Director of Market Research
 title: Director of Market Research
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

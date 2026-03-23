@@ -1,6 +1,6 @@
 ---
 name: Donchitos Game Studio
-description: Full-service indie game development studio with 48 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
+description: Full-service indie game development studio with 49 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
 slug: donchitos-game-studio
 schema: agentcompanies/v1
 version: 1.0.0
@@ -8,7 +8,7 @@ license: MIT
 authors:
   - name: Donchitos
 goals:
-  - Develop indie games through a coordinated 48-agent studio pipeline
+  - Develop indie games through a coordinated 49-agent studio pipeline
   - Follow a 10-phase development process from ideation through post-launch
   - Maintain quality through systematic reviews, testing, and quality gates
 tags:
@@ -20,7 +20,7 @@ tags:
   - godot
 ---
 
-Donchitos Game Studio is a full-service indie game development company powered by 48 specialized AI agents organized into a professional studio hierarchy. The studio replicates the structure and workflows of a real game development team — from Creative Director to QA Tester — enabling coordinated, quality-driven game development.
+Donchitos Game Studio is a full-service indie game development company powered by 49 specialized AI agents organized into a professional studio hierarchy. The studio replicates the structure and workflows of a real game development team — from Creative Director to QA Tester — enabling coordinated, quality-driven game development.
 
 ## How the Studio Works
 
@@ -31,7 +31,8 @@ The studio operates through a **hybrid pipeline + hub-and-spoke workflow**:
 
 ### Organizational Tiers
 
-- **Directors** (Opus-tier): Creative Director, Technical Director, and Producer set vision, architecture, and schedule
+- **CEO** (Opus-tier): Studio Head aligns creative, technical, and production pillars and makes greenlight decisions
+- **Directors** (Opus-tier): Creative Director, Technical Director, and Producer set vision, architecture, and schedule — all report to the CEO
 - **Department Leads** (Sonnet-tier): Game Designer, Lead Programmer, Art Director, Audio Director, Narrative Director, QA Lead, and others translate direction into actionable work
 - **Specialists** (Sonnet/Haiku-tier): 30+ specialists execute domain-specific tasks — from Gameplay Programmers to Sound Designers to Engine Specialists
 

@@ -1,7 +1,7 @@
 ---
 name: Director of Marketing
 title: Director of Marketing & Growth
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

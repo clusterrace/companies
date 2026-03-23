@@ -11,9 +11,9 @@ goals:
   - Maintain disciplined position sizing through systematic risk management
 ---
 
-ClawTeam Capital is an AI-powered investment analysis firm that deploys specialized analyst teams to research securities from multiple angles. A Portfolio Manager leads a hub-and-spoke organization of five specialist analysts and a Risk Manager, coordinating through ClawTeam's task and messaging system.
+ClawTeam Capital is an AI-powered investment analysis firm that deploys specialized analyst teams to research securities from multiple angles. The CEO (Portfolio Manager) leads a hub-and-spoke organization of five specialist analysts and a Risk Manager, coordinating through ClawTeam's task and messaging system.
 
-Work flows hub-and-spoke: the Portfolio Manager receives an investment thesis or ticker and dispatches it to five analysts — value (Buffett-style), growth, technical, fundamentals, and sentiment — who research independently and report standardized signals (bullish/bearish/neutral with confidence scores). The Risk Manager consolidates all signals, applies volatility-adjusted position limits, and produces a risk assessment. The Portfolio Manager synthesizes everything into a final investment decision.
+Work flows hub-and-spoke: the CEO receives an investment thesis or ticker and dispatches it to five analysts — value (Buffett-style), growth, technical, fundamentals, and sentiment — who research independently and report standardized signals (bullish/bearish/neutral with confidence scores). The Risk Manager consolidates all signals, applies volatility-adjusted position limits, and produces a risk assessment. The CEO synthesizes everything into a final investment decision.
 
 Agents communicate via ClawTeam's mailbox system, enabling parallel independent research without interference.
 

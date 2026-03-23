@@ -1,7 +1,7 @@
 ---
 name: VP of Product Strategy
 title: Vice President of Product Strategy
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

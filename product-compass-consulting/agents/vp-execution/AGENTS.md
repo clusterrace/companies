@@ -1,7 +1,7 @@
 ---
 name: VP of Product Execution
 title: Vice President of Product Execution
-reportsTo: cpo
+reportsTo: ceo
 skills:
   - paperclip
 ---

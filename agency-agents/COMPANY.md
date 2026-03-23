@@ -26,7 +26,7 @@ Agency Agents is a complete AI organization with 167 agents organized into 10 di
 
 ## How It Works
 
-Agency Agents operates on a **hub-and-spoke model**. The Managing Director coordinates across division heads, who manage their teams autonomously. For complex multi-division initiatives, Agency Agents follows the **NEXUS framework** — a seven-phase pipeline (Discovery, Strategy, Foundation, Build, Hardening, Launch, Operate) with quality gates at each stage.
+Agency Agents operates on a **hub-and-spoke model**. The CEO coordinates across division heads, who manage their teams autonomously. For complex multi-division initiatives, Agency Agents follows the **NEXUS framework** — a seven-phase pipeline (Discovery, Strategy, Foundation, Build, Hardening, Launch, Operate) with quality gates at each stage.
 
 ## Divisions
 
@@ -45,16 +45,16 @@ Agency Agents operates on a **hub-and-spoke model**. The Managing Director coord
 
 | Role | Slug | Reports To |
 |------|------|------------|
-| Managing Director & CEO | managing-director | — |
-| VP of Engineering & CTO | vp-engineering | Managing Director |
-| Creative Director | creative-director | Managing Director |
-| Chief Marketing Officer | cmo | Managing Director |
-| VP of Product | vp-product | Managing Director |
-| VP of Sales | vp-sales | Managing Director |
+| Managing Director & CEO | ceo | — |
+| VP of Engineering & CTO | vp-engineering | CEO |
+| Creative Director | creative-director | CEO |
+| Chief Marketing Officer | cmo | CEO |
+| VP of Product | vp-product | CEO |
+| VP of Sales | vp-sales | CEO |
 | QA Director | qa-director | VP of Engineering |
-| VP of Operations | vp-operations | Managing Director |
-| Game Development Director | game-dev-director | Managing Director |
+| VP of Operations | vp-operations | CEO |
+| Game Development Director | game-dev-director | CEO |
 | XR Director | xr-director | VP of Engineering |
-| Chief of Staff | chief-of-staff | Managing Director |
+| Chief of Staff | chief-of-staff | CEO |
 
 Generated from [agency-agents](https://github.com/msitarzewski/agency-agents) with the company-creator skill from [Paperclip](https://github.com/paperclipai/paperclip)

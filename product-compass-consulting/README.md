@@ -26,13 +26,13 @@
 | Career Specialist | Engineer | director-toolkit |
 | Competitive Analyst | Engineer | director-market-research |
 | Competitive Intel Analyst | Engineer | vp-strategy |
-| CPO | Engineer | — |
+| CEO | Engineer | — |
 | Data Generator | Engineer | vp-execution |
-| Director of Data Analytics | Engineer | cpo |
-| Director of Go-to-Market | Engineer | cpo |
-| Director of Market Research | Engineer | cpo |
-| Director of Marketing | Engineer | cpo |
-| Director of PM Toolkit | Engineer | cpo |
+| Director of Data Analytics | Engineer | ceo |
+| Director of Go-to-Market | Engineer | ceo |
+| Director of Market Research | Engineer | ceo |
+| Director of Marketing | Engineer | ceo |
+| Director of PM Toolkit | Engineer | ceo |
 | Editor | Engineer | director-toolkit |
 | Experiment Designer | Engineer | vp-discovery |
 | Experimentation Analyst | Engineer | director-data-analytics |
@@ -64,9 +64,9 @@
 | Story Writer | Engineer | vp-execution |
 | User Researcher | Engineer | vp-discovery |
 | Vision Strategist | Engineer | vp-strategy |
-| VP of Product Discovery | VP | cpo |
-| VP of Product Execution | VP | cpo |
-| VP of Product Strategy | VP | cpo |
+| VP of Product Discovery | VP | ceo |
+| VP of Product Execution | VP | ceo |
+| VP of Product Strategy | VP | ceo |
 
 ### Skills
 

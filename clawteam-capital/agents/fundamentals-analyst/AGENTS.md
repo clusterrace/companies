@@ -1,7 +1,7 @@
 ---
 name: Fundamentals Analyst
 title: Fundamentals Analyst
-reportsTo: portfolio-manager
+reportsTo: ceo
 skills:
   - clawteam
   - paperclip
