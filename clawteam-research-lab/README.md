@@ -1,0 +1,40 @@
+# ClawTeam Research Lab
+
+> Autonomous AI research automation through coordinated multi-agent teams that conduct literature surveys, design experiments, run analyses, and synthesize findings
+
+![Org Chart](images/org-chart.png)
+
+## What's Inside
+
+> This is an [Agent Company](https://agentcompanies.io) package from [Paperclip](https://paperclip.ing)
+
+| Content | Count |
+|---------|-------|
+| Agents | 4 |
+| Skills | 1 |
+
+### Agents
+
+| Agent | Role | Reports To |
+|-------|------|------------|
+| Data Analyst | Engineer | principal-investigator |
+| Literature Surveyor | Engineer | principal-investigator |
+| Methodology Designer | Engineer | principal-investigator |
+| Principal Investigator | Engineer | — |
+
+### Skills
+
+| Skill | Description | Source |
+|-------|-------------|--------|
+| clawteam | Multi-agent team orchestration CLI for spawning agents, managing tasks, and coordinating work through mailbox messaging and git worktree isolation | [github](https://github.com/HKUDS/ClawTeam/blob/main/skills/clawteam/SKILL.md) |
+
+## Getting Started
+
+```bash
+pnpm paperclipai company import this-github-url-or-folder
+```
+
+See [Paperclip](https://paperclip.ing) for more information.
+
+---
+Exported from [Paperclip](https://paperclip.ing) on 2026-03-23
