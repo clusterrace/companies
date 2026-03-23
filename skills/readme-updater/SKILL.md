@@ -49,16 +49,19 @@ Each company entry MUST follow this exact format:
 ```markdown
 ### [Company Name](./<directory-name>)
 
+> `npx companies.sh add paperclipai/companies/<directory-name>`
+
 <One-sentence description from COMPANY.md body. Keep it concise — one to two sentences max.> Built from [upstream name](upstream-url).
 
 ![Company Name Org Chart](./<directory-name>/images/org-chart.png)
 
-**Agents (N):** Agent One, Agent Two, Agent Three
-
-**Skills (N):** skill-one, skill-two, skill-three
+> **Agents (N):** Agent One, Agent Two, Agent Three
+>
+> **Skills (N):** skill-one, skill-two, skill-three
 ```
 
 Rules:
+
 - The heading links to the company directory
 - The description is a brief summary, NOT the full COMPANY.md body
 - The upstream source link comes from the "Generated from" line in COMPANY.md. Append it naturally to the description sentence (e.g., "Built from [gstack](url).")
@@ -73,9 +76,9 @@ Rules:
 Before the `## Companies` heading, include a summary index table:
 
 ```markdown
-| Company | Agents | Skills | Source |
-|---------|--------|--------|--------|
-| [Company Name](#heading-anchor) | N | N | [source](url) |
+| Company                         | Agents | Skills | Source        |
+| ------------------------------- | ------ | ------ | ------------- |
+| [Company Name](#heading-anchor) | N      | N      | [source](url) |
 ```
 
 - The Company column links to the heading anchor (lowercase, hyphens for spaces)
@@ -89,11 +92,13 @@ The first three companies are always **GStack**, **Superpowers Dev Shop**, and *
 #### Naming overrides
 
 Some companies use a display name different from their COMPANY.md `name` field. Always apply these overrides:
+
 - `agency-agents` directory → display as **Agency Agents** (not "The Agency")
 
 ### 5. Verify
 
 After writing, read back the README and confirm:
+
 - Every company directory with a COMPANY.md has an entry
 - No company entries exist for directories that were removed
 - All image paths point to files that exist
