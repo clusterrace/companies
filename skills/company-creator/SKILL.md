@@ -18,8 +18,8 @@ Create agent company packages that conform to the Agent Companies specification.
 
 Spec references:
 
-- Normative spec: `docs/companies/companies-spec.md` (read this before generating files)
-- Web spec: https://agentcompanies.io/specification
+- Normative spec: https://agentcompanies.io/specification
+- Local quick reference: `references/companies-spec.md`
 - Protocol site: https://agentcompanies.io/
 
 ## Two Modes
@@ -43,9 +43,9 @@ Determine which mode applies:
 - **From scratch**: What kind of company or team? What domain? What should the agents do?
 - **From repo**: Clone/read the repo. Scan for existing skills, agent configs, README, source structure.
 
-### Step 2: Interview (Use AskUserQuestion)
+### Step 2: Interview the User
 
-Do not skip this step. Use AskUserQuestion to align with the user before writing any files.
+Do not skip this step. Ask focused questions to align with the user before writing any files.
 
 **For from-scratch companies**, ask about:
 
@@ -93,13 +93,11 @@ For from-repo companies, infer the pattern from the repo's structure. If skills 
 
 ### Step 3: Read the Spec
 
-Before generating any files, read the normative spec:
+Before generating any files, read the normative spec at:
 
-```
-docs/companies/companies-spec.md
-```
+`https://agentcompanies.io/specification`
 
-Also read the quick reference: [references/companies-spec.md](references/companies-spec.md)
+Also read the local quick reference: [references/companies-spec.md](references/companies-spec.md)
 
 And the example: [references/example-company.md](references/example-company.md)
 
