@@ -8,11 +8,15 @@ Pre-built agent companies for [Paperclip](https://github.com/paperclipai/papercl
 
 An engineering company built around [Garry Tan's gstack workflow](https://github.com/garrytan/gstack). Work flows through distinct cognitive modes: founder taste, technical planning, paranoid review, fast execution, and systematic QA.
 
+![GStack Org Chart](./gstack/images/org-chart.png)
+
 **Agents:** CEO, CTO, Staff Engineer, Release Engineer, QA Engineer
 
 ### [Superpowers Dev Shop](./superpowers)
 
 A disciplined development company built on [Jesse Vincent's Superpowers](https://github.com/obra/superpowers) methodology. Enforces test-driven development, systematic debugging, and quality gates at every stage.
+
+![Superpowers Org Chart](./superpowers/images/org-chart.png)
 
 **Agents:** CEO, Lead Engineer, Code Reviewer, Release Engineer
 
