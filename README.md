@@ -16,26 +16,28 @@ A growing catalog of ready-to-deploy agent companies for the [Paperclip](https:/
 - **🎯 Domain-Specific**: Security firms, game studios, science labs, consultancies — not generic prompt wrappers
 - **🧬 Complete Org Structures**: CEO → directors → specialists, with real reporting lines and delegation
 - **🛠️ Skill-Loaded**: Hundreds of reusable workflow skills agents actually know how to run
-- **⚡ Import & Go**: `paperclipai company import --from ./trail-of-bits-security` and you're live
+- **⚡ Import & Go**: `npx paperclipai company import --from ./trail-of-bits-security` and you're live
 
-| Company | Agents | Skills | Source |
-|---------|--------|--------|--------|
-| [GStack](#gstack) | 5 | 8 | [gstack](https://github.com/garrytan/gstack/tree/main) |
-| [Superpowers Dev Shop](#superpowers-dev-shop) | 4 | 14 | [superpowers](https://github.com/obra/superpowers) |
-| [Agency Agents](#agency-agents) | 167 | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
-| [Aeon Intelligence](#aeon-intelligence) | 4 | 32 | [Aeon](https://github.com/aaronjmars/aeon) |
-| [AgentSys Engineering](#agentsys-engineering) | 5 | 14 | [agentsys](https://github.com/agent-sh/agentsys) |
-| [ClawTeam Capital](#clawteam-capital) | 7 | 1 | [ClawTeam](https://github.com/HKUDS/ClawTeam) |
-| [ClawTeam Engineering](#clawteam-engineering) | 5 | 1 | [ClawTeam](https://github.com/HKUDS/ClawTeam) |
-| [ClawTeam Research Lab](#clawteam-research-lab) | 4 | 1 | [ClawTeam](https://github.com/HKUDS/ClawTeam) |
-| [Donchitos Game Studio](#donchitos-game-studio) | 48 | 38 | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) |
-| [Fullstack Forge](#fullstack-forge) | 49 | 66 | [claude-skills](https://github.com/jeffallan/claude-skills) |
-| [K-Dense Science Lab](#k-dense-science-lab) | 54 | 177 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) |
-| [MiniMax Studio](#minimax-studio) | 5 | 10 | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) |
-| [Product Compass Consulting](#product-compass-consulting) | 48 | 65 | [pm-skills](https://github.com/phuryn/pm-skills) |
-| [RedOak Review](#redoak-review) | 5 | 6 | [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) |
-| [TÂCHES Creative](#tâches-creative) | 6 | 35 | [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) |
-| [Trail of Bits Security](#trail-of-bits-security) | 28 | 35 | [skills](https://github.com/trailofbits/skills) |
+## Table of Contents
+
+| Company                                                   | Agents | Skills | Source                                                                             |
+| --------------------------------------------------------- | ------ | ------ | ---------------------------------------------------------------------------------- |
+| [GStack](#gstack)                                         | 5      | 8      | [gstack](https://github.com/garrytan/gstack/tree/main)                             |
+| [Superpowers Dev Shop](#superpowers-dev-shop)             | 4      | 14     | [superpowers](https://github.com/obra/superpowers)                                 |
+| [Agency Agents](#agency-agents)                           | 167    | —      | [agency-agents](https://github.com/msitarzewski/agency-agents)                     |
+| [Aeon Intelligence](#aeon-intelligence)                   | 4      | 32     | [Aeon](https://github.com/aaronjmars/aeon)                                         |
+| [AgentSys Engineering](#agentsys-engineering)             | 5      | 14     | [agentsys](https://github.com/agent-sh/agentsys)                                   |
+| [ClawTeam Capital](#clawteam-capital)                     | 7      | 1      | [ClawTeam](https://github.com/HKUDS/ClawTeam)                                      |
+| [ClawTeam Engineering](#clawteam-engineering)             | 5      | 1      | [ClawTeam](https://github.com/HKUDS/ClawTeam)                                      |
+| [ClawTeam Research Lab](#clawteam-research-lab)           | 4      | 1      | [ClawTeam](https://github.com/HKUDS/ClawTeam)                                      |
+| [Donchitos Game Studio](#donchitos-game-studio)           | 48     | 38     | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)  |
+| [Fullstack Forge](#fullstack-forge)                       | 49     | 66     | [claude-skills](https://github.com/jeffallan/claude-skills)                        |
+| [K-Dense Science Lab](#k-dense-science-lab)               | 54     | 177    | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) |
+| [MiniMax Studio](#minimax-studio)                         | 5      | 10     | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)                          |
+| [Product Compass Consulting](#product-compass-consulting) | 48     | 65     | [pm-skills](https://github.com/phuryn/pm-skills)                                   |
+| [RedOak Review](#redoak-review)                           | 5      | 6      | [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows)        |
+| [TÂCHES Creative](#tâches-creative)                       | 6      | 35     | [taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources)        |
+| [Trail of Bits Security](#trail-of-bits-security)         | 28     | 35     | [skills](https://github.com/trailofbits/skills)                                    |
 
 ## Companies
 
