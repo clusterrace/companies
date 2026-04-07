@@ -1,58 +1,271 @@
 schema: paperclip/v1
 agents:
-  ceo:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-opus-4-6
-  creative-director:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-opus-4-6
-  technical-director:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-opus-4-6
-  producer:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-opus-4-6
-  devops-engineer:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-haiku-4-5-20251001
-    inputs:
-      env:
-        GH_TOKEN:
-          kind: secret
-          requirement: optional
-  qa-tester:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-haiku-4-5-20251001
-  sound-designer:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-haiku-4-5-20251001
-  community-manager:
-    adapter:
-      type: claude_local
-      config:
-        model: claude-haiku-4-5-20251001
   accessibility-specialist:
     adapter:
       type: claude_local
       config:
         model: claude-haiku-4-5-20251001
-  release-manager:
+        dangerouslySkipPermissions: true
+  ai-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  analytics-engineer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  art-director:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  audio-director:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ceo:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  community-manager:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+        dangerouslySkipPermissions: true
+  creative-director:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  devops-engineer:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+        dangerouslySkipPermissions: true
     inputs:
       env:
         GH_TOKEN:
           kind: secret
           requirement: optional
+  economy-designer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  engine-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  game-designer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  gameplay-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  godot-csharp-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  godot-gdextension-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  godot-gdscript-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  godot-shader-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  godot-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  lead-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  level-designer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  live-ops-designer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  localization-lead:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  narrative-director:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  network-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  performance-analyst:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  producer:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  prototyper:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  qa-lead:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  qa-tester:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+        dangerouslySkipPermissions: true
+  release-manager:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+    inputs:
+      env:
+        GH_TOKEN:
+          kind: secret
+          requirement: optional
+  security-engineer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  sound-designer:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+        dangerouslySkipPermissions: true
+  systems-designer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  technical-artist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  technical-director:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-opus-4-6
+        dangerouslySkipPermissions: true
+  tools-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ue-blueprint-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ue-gas-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ue-replication-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ue-umg-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ui-programmer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  unity-addressables-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  unity-dots-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  unity-shader-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  unity-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  unity-ui-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  unreal-specialist:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  ux-designer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  world-builder:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
+  writer:
+    adapter:
+      type: claude_local
+      config:
+        dangerouslySkipPermissions: true
