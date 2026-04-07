@@ -7,6 +7,10 @@ includes:
   - ../../agents/creative-director/AGENTS.md
   - ../../agents/technical-director/AGENTS.md
   - ../../agents/producer/AGENTS.md
+  - ../../skills/adopt/SKILL.md
+  - ../../skills/help/SKILL.md
+  - ../../skills/skill-improve/SKILL.md
+  - ../../skills/skill-test/SKILL.md
 tags:
   - leadership
 ---

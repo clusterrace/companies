@@ -16,7 +16,20 @@ includes:
   - ../../agents/performance-analyst/AGENTS.md
   - ../../skills/code-review/SKILL.md
   - ../../skills/architecture-decision/SKILL.md
+  - ../../skills/architecture-review/SKILL.md
+  - ../../skills/bug-triage/SKILL.md
+  - ../../skills/create-architecture/SKILL.md
+  - ../../skills/dev-story/SKILL.md
+  - ../../skills/qa-plan/SKILL.md
+  - ../../skills/regression-suite/SKILL.md
+  - ../../skills/smoke-check/SKILL.md
+  - ../../skills/soak-test/SKILL.md
+  - ../../skills/team-qa/SKILL.md
   - ../../skills/tech-debt/SKILL.md
+  - ../../skills/test-evidence-review/SKILL.md
+  - ../../skills/test-flakiness/SKILL.md
+  - ../../skills/test-helpers/SKILL.md
+  - ../../skills/test-setup/SKILL.md
 tags:
   - engineering
   - programming

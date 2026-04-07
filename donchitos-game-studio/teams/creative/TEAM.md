@@ -16,6 +16,16 @@ includes:
   - ../../agents/narrative-director/AGENTS.md
   - ../../agents/writer/AGENTS.md
   - ../../agents/world-builder/AGENTS.md
+  - ../../skills/art-bible/SKILL.md
+  - ../../skills/asset-spec/SKILL.md
+  - ../../skills/consistency-check/SKILL.md
+  - ../../skills/content-audit/SKILL.md
+  - ../../skills/create-control-manifest/SKILL.md
+  - ../../skills/propagate-design-change/SKILL.md
+  - ../../skills/quick-design/SKILL.md
+  - ../../skills/review-all-gdds/SKILL.md
+  - ../../skills/ux-design/SKILL.md
+  - ../../skills/ux-review/SKILL.md
 tags:
   - creative
   - design

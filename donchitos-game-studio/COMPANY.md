@@ -1,9 +1,9 @@
 ---
 name: Donchitos Game Studio
-description: Full-service indie game development studio with 49 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
+description: Full-service indie game development studio with 50 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
 slug: donchitos-game-studio
 schema: agentcompanies/v1
-version: 1.0.0
+version: 1.1.0
 license: MIT
 authors:
   - name: Donchitos
@@ -20,7 +20,7 @@ tags:
   - godot
 ---
 
-Donchitos Game Studio is a full-service indie game development company powered by 49 specialized AI agents organized into a professional studio hierarchy. The studio replicates the structure and workflows of a real game development team — from Creative Director to QA Tester — enabling coordinated, quality-driven game development.
+Donchitos Game Studio is a full-service indie game development company powered by 50 specialized AI agents organized into a professional studio hierarchy. The studio replicates the structure and workflows of a real game development team — from Creative Director to QA Tester — enabling coordinated, quality-driven game development.
 
 ## How the Studio Works
 

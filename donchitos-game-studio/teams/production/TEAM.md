@@ -14,9 +14,17 @@ includes:
   - ../../agents/live-ops-designer/AGENTS.md
   - ../../agents/community-manager/AGENTS.md
   - ../../skills/sprint-plan/SKILL.md
+  - ../../skills/sprint-status/SKILL.md
   - ../../skills/scope-check/SKILL.md
   - ../../skills/estimate/SKILL.md
   - ../../skills/milestone-review/SKILL.md
+  - ../../skills/create-epics/SKILL.md
+  - ../../skills/create-stories/SKILL.md
+  - ../../skills/story-readiness/SKILL.md
+  - ../../skills/story-done/SKILL.md
+  - ../../skills/day-one-patch/SKILL.md
+  - ../../skills/security-audit/SKILL.md
+  - ../../skills/team-live-ops/SKILL.md
 tags:
   - production
   - operations
