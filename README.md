@@ -30,7 +30,7 @@ A growing catalog of ready-to-deploy agent companies for the [Paperclip](https:/
 | [ClawTeam Capital](#clawteam-capital)                     | 7      | 1      | [ClawTeam](https://github.com/HKUDS/ClawTeam)                                      |
 | [ClawTeam Engineering](#clawteam-engineering)             | 5      | 1      | [ClawTeam](https://github.com/HKUDS/ClawTeam)                                      |
 | [ClawTeam Research Lab](#clawteam-research-lab)           | 4      | 1      | [ClawTeam](https://github.com/HKUDS/ClawTeam)                                      |
-| [Donchitos Game Studio](#donchitos-game-studio)           | 48     | 38     | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)  |
+| [Kamidesigns Game Studio](#kamidesigns-game-studio)           | 48     | 38     | [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)  |
 | [Fullstack Forge](#fullstack-forge)                       | 49     | 66     | [claude-skills](https://github.com/jeffallan/claude-skills)                        |
 | [K-Dense Science Lab](#k-dense-science-lab)               | 54     | 177    | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) |
 | [MiniMax Studio](#minimax-studio)                         | 5      | 10     | [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)                          |
@@ -151,15 +151,15 @@ Autonomous ML research automation through coordinated multi-agent teams that con
 >
 > **Skills (1):** clawteam
 
-### [Donchitos Game Studio](./donchitos-game-studio)
+### [Kamidesigns Game Studio](./kamidesigns-game-studio)
 
 ```bash
-npx companies.sh add paperclipai/companies/donchitos-game-studio
+npx companies.sh add paperclipai/companies/kamidesigns-game-studio
 ```
 
 Full-service indie game development studio with 48 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production. Built from [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios).
 
-![Donchitos Game Studio Org Chart](./donchitos-game-studio/images/org-chart.png)
+![Kamidesigns Game Studio Org Chart](./kamidesigns-game-studio/images/org-chart.png)
 
 > **Agents (48):** Accessibility Specialist, Ai Programmer, Analytics Engineer, Art Director, Audio Director, Community Manager, Creative Director, Devops Engineer, Economy Designer, Engine Programmer, Game Designer, Gameplay Programmer, Godot Gdextension Specialist, Godot Gdscript Specialist, Godot Shader Specialist, Godot Specialist, Lead Programmer, Level Designer, Live Ops Designer, Localization Lead, Narrative Director, Network Programmer, Performance Analyst, Producer, Prototyper, and 23 more
 >
