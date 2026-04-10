@@ -3,7 +3,7 @@ name: Kamidesigns Game Studio
 description: Full-service indie game development studio with 50 coordinated AI agents spanning creative direction, engineering, design, art, audio, narrative, QA, and production
 slug: kamidesigns-game-studio
 schema: agentcompanies/v1
-version: 1.1.0
+version: 1.2.0
 license: MIT
 authors:
   - name: Kamidesigns

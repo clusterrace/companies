@@ -13,7 +13,7 @@
 | Content | Count |
 |---------|-------|
 | Agents | 50 |
-| Skills | 72 |
+| Skills | 74 |
 
 ### Agents
 
@@ -78,6 +78,7 @@
 | architecture-decision | Architecture Decision Record documentation | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/architecture-decision/SKILL.md) |
 | architecture-review | Architecture review against all GDDs | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/architecture-review/SKILL.md) |
 | art-bible | Art Bible section-by-section authoring | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/art-bible/SKILL.md) |
+| art-direction-verify | Three-layer verification of rendered screenshots against the testable art direction (deterministic + VLM rubric, advisory) | [local](skills/art-direction-verify/SKILL.md) |
 | asset-audit | Asset naming and pipeline validation | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/asset-audit/SKILL.md) |
 | asset-spec | Per-asset visual specifications and AI generation prompts | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/asset-spec/SKILL.md) |
 | balance-check | Statistical analysis and balance verification of game data | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/balance-check/SKILL.md) |
@@ -144,6 +145,7 @@
 | test-flakiness | Detect flaky tests from CI logs | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/test-flakiness/SKILL.md) |
 | test-helpers | Generate engine-specific test helpers | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/test-helpers/SKILL.md) |
 | test-setup | Scaffold test framework and CI pipeline | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/test-setup/SKILL.md) |
+| testable-art-direction | Author an art direction document that is machine-verifiable (four-band taxonomy + palette.json + rubric.yaml + references) | [local](skills/testable-art-direction/SKILL.md) |
 | ux-design | UX spec section-by-section authoring | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/ux-design/SKILL.md) |
 | ux-review | Validate a UX spec or HUD design | [github](https://github.com/Donchitos/Claude-Code-Game-Studios/blob/main/.claude/skills/ux-review/SKILL.md) |
 
